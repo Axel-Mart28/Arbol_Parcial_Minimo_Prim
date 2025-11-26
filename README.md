@@ -14,25 +14,45 @@
     >> Ingresa arista (u v w): 0 1 10
  <br>
    Arista agregada: 0 --(10)-- 1
+   <br>
     >> Ingresa arista (u v w): 1 2 5
+    <br>
    Arista agregada: 1 --(5)-- 2
+   <br>
     >> Ingresa arista (u v w): 2 3 4
+    <br>
    Arista agregada: 2 --(4)-- 3
+   <br>
     >> Ingresa arista (u v w): 3 4 8
+    <br>
    Arista agregada: 3 --(8)-- 4
+   <br>
     >> Ingresa arista (u v w): 4 5 17
+    <br>
    Arista agregada: 4 --(17)-- 5
+   <br>
     >> Ingresa arista (u v w): 5 6 20
+    <br>
    Arista agregada: 5 --(20)-- 6
+   <br>
     >> Ingresa arista (u v w): 6 7 1
+    <br>
    Arista agregada: 6 --(1)-- 7
+   <br>
     >> Ingresa arista (u v w): 2 6 4
+    <br>
    Arista agregada: 2 --(4)-- 6
+   <br>
     >> Ingresa arista (u v w): 3 5 2
+    <br>
    Arista agregada: 3 --(2)-- 5
+   <br>
     >> Ingresa arista (u v w): 1 7 5
+    <br>
    Arista agregada: 1 --(5)-- 7
+   <br>
     >> Ingresa arista (u v w): fin
+    <br>
 
     ¿En qué nodo quieres iniciar? (Nodos disponibles: [0, 1, 2, 3, 4, 5, 6, 7]): 0
 
