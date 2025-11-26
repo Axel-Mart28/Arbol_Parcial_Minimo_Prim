@@ -3,11 +3,16 @@
 
 
 <h3> --- CONFIGURACIÓN DEL GRAFO ---
+ <br>
     Ingresa las conexiones en el formato: Origen Destino Peso
+    <br>
     Ejemplo: 0 1 5 (Conecta nodo 0 con 1, peso 5)
+    <br>
     Escribe 'fin' cuando termines de agregar aristas.
+    <br>
 
     >> Ingresa arista (u v w): 0 1 10
+ <br>
    Arista agregada: 0 --(10)-- 1
     >> Ingresa arista (u v w): 1 2 5
    Arista agregada: 1 --(5)-- 2
