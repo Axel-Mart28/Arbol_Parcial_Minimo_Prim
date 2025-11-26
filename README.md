@@ -97,6 +97,6 @@
 
     FIN. Costo Total: 34
 </h3>
- <p align="center">
+ <center>
   <img src="images/minimo.png.png" alt="Ejecución de Prim" width="600">
-</p>
+</center>
