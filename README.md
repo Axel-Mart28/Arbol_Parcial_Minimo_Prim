@@ -1,1 +1,1 @@
-# Arbol_Parcial_Minimo_Prim
+<h1> En este repositorio de encuentra un simulador paso a paso del algoritmo de Arbol Parcial minimo de Pim, en el cuál el usuario ingresa el grafo con los nodos y pesos, y se muestra gráficamente como se va resolviendo paso a paso </h1>
